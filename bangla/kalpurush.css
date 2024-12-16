@@ -1,0 +1,9 @@
+/* Kalpurush Font Face by BlogSeba */
+@font-face {
+  font-family: 'Kalpurush';
+  src: url('../fonts/Kalpurush.eot');
+  src: url('../fonts/Kalpurush.woff') format('woff'),
+       url('../fonts/Kalpurush.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
