@@ -1,0 +1,10 @@
+{
+  "rewrites": [
+    { "source": "/usage-policy", "destination": "/usage-policy.html" },
+    { "source": "/", "destination": "/index.html" }
+  ],
+  "redirects": [
+    { "source": "/usage-policy.html", "destination": "/usage-policy", "permanent": true },
+    { "source": "/index.html", "destination": "/", "permanent": true }
+  ]
+}
